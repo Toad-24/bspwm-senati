@@ -1,0 +1,88 @@
+Super + H         → Leyenda
+Super + Enter     → Abrir terminal
+Super + d         → Abrir Rofi
+Super + Escape    → Recargar sxhkd
+
+Super + Alt + q   → Salir de bspwm
+Super + Alt + r   → Reiniciar bspwm
+
+Super + w         → Cerrar terminal
+Super + Shift + w → Matar ventana
+
+Super + m         → Alternar tiled/monocle
+Super + y         → Enviar nodo marcado
+Super + g         → Intercambiar con ventana más grande
+
+Super + t         → Tiled
+Super + Shift + t → Pseudo-tiled
+Super + s         → Floating
+Super + f         → Fullscreen
+
+Super + Ctrl + m  → Marked
+Super + Ctrl + x  → Locked
+Super + Ctrl + y  → Sticky
+Super + Ctrl + z  → Private
+
+Super + Left      → Enfocar izquierda
+Super + Down      → Enfocar abajo
+Super + Up        → Enfocar arriba
+Super + Right     → Enfocar derecha
+
+Super + Shift + Left  → Intercambiar izquierda
+Super + Shift + Down  → Intercambiar abajo
+Super + Shift + Up    → Intercambiar arriba
+Super + Shift + Right → Intercambiar derecha
+
+Super + p         → Nodo padre
+Super + b         → Nodo hermano
+Super + ,         → Primer hijo
+Super + .         → Segundo hijo
+
+Super + c         → Ventana siguiente
+Super + Shift + c → Ventana anterior
+
+Super + [         → Escritorio anterior
+Super + ]         → Escritorio siguiente
+
+Super + `         → Última ventana
+Super + Tab       → Último escritorio
+
+Super + o         → Ventana anterior en historial
+Super + i         → Ventana siguiente en historial
+
+Super + 1-9,0     → Cambiar a escritorio
+Super + Shift + 1-9,0 → Mover ventana al escritorio
+
+Super + Ctrl + Alt + Left  → Preseleccionar izquierda
+Super + Ctrl + Alt + Down  → Preseleccionar abajo
+Super + Ctrl + Alt + Up    → Preseleccionar arriba
+Super + Ctrl + Alt + Right → Preseleccionar derecha
+
+|Abrir terminal "tamaño"|
+Super + Ctrl + 1  → Ratio 0.1 
+Super + Ctrl + 2  → Ratio 0.2
+Super + Ctrl + 3  → Ratio 0.3
+Super + Ctrl + 4  → Ratio 0.4
+Super + Ctrl + 5  → Ratio 0.5
+Super + Ctrl + 6  → Ratio 0.6
+Super + Ctrl + 7  → Ratio 0.7
+Super + Ctrl + 8  → Ratio 0.8
+Super + Ctrl + 9  → Ratio 0.9
+
+Super + Ctrl + Space      → Cancelar preselección
+Super + Ctrl + Alt + Space → Cancelar todas las preselecciones
+
+Super + Ctrl + Left  → Mover ventana flotante izquierda
+Super + Ctrl + Down  → Mover ventana flotante abajo
+Super + Ctrl + Up    → Mover ventana flotante arriba
+Super + Ctrl + Right → Mover ventana flotante derecha
+
+Super + Alt + Left  → Redimensionar izquierda
+Super + Alt + Down  → Redimensionar abajo
+Super + Alt + Up    → Redimensionar arriba
+Super + Alt + Right → Redimensionar derecha
+
+Super + Shift + f → Abrir Firefox
+Super + Shift + b → Abrir Burp Suite
+
+
