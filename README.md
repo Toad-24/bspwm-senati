@@ -2,7 +2,7 @@
 
 ```bash
 git clone https://github.com/Toad-24/bspwm-senati.git
-cd BSPWMparrot
+cd bspwm-senati
 chmod +x install.sh
 ./install.sh
 ```
