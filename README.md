@@ -1,7 +1,7 @@
 # BSPWM SENATI Edition
 
 ```bash
-git clone https://github.com/xJackSx/BSPWMparrot.git
+git clone https://github.com/Toad-24/bspwm-senati.git
 cd BSPWMparrot
 chmod +x install.sh
 ./install.sh
